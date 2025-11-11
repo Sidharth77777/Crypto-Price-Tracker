@@ -17,4 +17,7 @@ export const ENV = {
     SMTP_USER: process.env['SMTP_USER'],
 
     COINGECKO_SECRET_KEY: process.env['COINGECKO_SECRET_KEY'],
+
+    CRON_SECRET: process.env['CRON_SECRET'],
+    ENABLE_SELF_CRON: process.env['ENABLE_SELF_CRON'],
 }
