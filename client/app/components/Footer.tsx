@@ -29,7 +29,7 @@ export default function Footer() {
             className="flex items-center gap-2 hover:text-primary transition-colors"
             asChild
           >
-            <a href="https://github.com/Sidharth77777" target="_blank">
+            <a href="https://github.com/Sidharth77777/Crypto-Price-Tracker/blob/main/README.md" target="_blank">
               <FaGithub className="h-5 w-5" /> GitHub
             </a>
           </Button>
