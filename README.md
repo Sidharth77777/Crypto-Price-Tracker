@@ -79,20 +79,24 @@ MongoDB (Atlas / Cloud)
 
 ## 📸 Preview
 
-![Get Started](https://drive.usercontent.google.com/download?id=1BXsbt-vKRDCq6D3IjwxdyqK-_aitN40L&export=view&authuser=0)
 *Get Started*
+![Get Started](https://drive.usercontent.google.com/download?id=1BXsbt-vKRDCq6D3IjwxdyqK-_aitN40L&export=view&authuser=0)
 
-![Login](https://drive.usercontent.google.com/download?id=1KRlDBvH6pZOjTSkuBwM57ZPUryC5lHbm&export=view&authuser=0)
+
 *Login Page*
+![Login](https://drive.usercontent.google.com/download?id=1KRlDBvH6pZOjTSkuBwM57ZPUryC5lHbm&export=view&authuser=0)
 
-![Dashboard](https://drive.usercontent.google.com/download?id=1e39cqrSOoZGtZ3bvVNhn5tIYlSn9eANK&export=view&authuser=0)
+
 *Dashboard*
+![Dashboard](https://drive.usercontent.google.com/download?id=1e39cqrSOoZGtZ3bvVNhn5tIYlSn9eANK&export=view&authuser=0)
 
-![Watch List](https://drive.usercontent.google.com/download?id=1zMmWqovs6_Wevdiqe5sqk0WU2ow6d6I0&export=view&authuser=0)
+
 *Watch List*
+![Watch List](https://drive.usercontent.google.com/download?id=1zMmWqovs6_Wevdiqe5sqk0WU2ow6d6I0&export=view&authuser=0)
 
-![Mail](https://drive.usercontent.google.com/download?id=1ACPl0td6CMK23zTpttaRJPPn7tGPgpza&export=view&authuser=0)
+
 *Sample Mail Notification*
+![Mail](https://drive.usercontent.google.com/download?id=1ACPl0td6CMK23zTpttaRJPPn7tGPgpza&export=view&authuser=0)
 
 ---
 
