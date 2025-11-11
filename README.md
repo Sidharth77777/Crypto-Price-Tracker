@@ -79,6 +79,8 @@ MongoDB (Atlas / Cloud)
 
 ## 📸 Preview
 
+![Get Started](https://drive.usercontent.google.com/download?id=1BXsbt-vKRDCq6D3IjwxdyqK-_aitN40L&export=view&authuser=0)
+
 **Dashboard**
 > Clean, minimal, realtime pricing UI
 
