@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    /* ---- Language target & module system ---- */
+    "target": "ES2020",
+    "module": "CommonJS",
+    "ignoreDeprecations": "6.0",
+    "moduleResolution": "node",
+
+    /* ---- Project structure ---- */
+    "rootDir": "src",
+    "outDir": "dist",
+
+    /* ---- Interop & quality of life ---- */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+
+    /* ---- Your strictness options (kept) ---- */
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strictNullChecks": true,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+
+    /* Optional aliases (uncomment if you want)
+    ,
+    "baseUrl": "src",
+    "paths": {
+      "@config/*": ["config/*"],
+      "@routes/*": ["routes/*"],
+      "@models/*": ["models/*"],
+      "@services/*": ["services/*"],
+      "@utils/*": ["utils/*"],
+      "@types/*": ["types/*"]
+    }
+    */
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts", "**/*.spec.ts"]
+}
